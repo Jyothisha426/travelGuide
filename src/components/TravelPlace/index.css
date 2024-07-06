@@ -1,0 +1,26 @@
+.travel-list-container {
+  height: auto;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+  margin: 10px;
+  background-color: #ffffff;
+  padding: 10px;
+}
+.heading {
+  font-size: 17px;
+  font-weight: 400;
+  color: #334155;
+  font-family: 'Roboto';
+}
+.paragraph {
+  font-size: 11px;
+  font-weight: 400;
+  color: #475569;
+  font-family: 'Roboto';
+}
+.image {
+  height: 200px;
+  width: 100%;
+}
